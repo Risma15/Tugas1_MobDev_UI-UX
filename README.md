@@ -1,1 +1,5 @@
 # Tugas1_MobDev_UI-UX
+
+NIM : 17090052
+NAMA : RISMA SARI
+KELAS : 6D
